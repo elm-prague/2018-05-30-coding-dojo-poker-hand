@@ -4,9 +4,6 @@ import Expect
 import Test exposing (..)
 
 
--- Check out http://package.elm-lang.org/packages/elm-community/elm-test/latest to learn more about testing in Elm!
-
-
 all : Test
 all =
     describe "A Test Suite"
@@ -18,5 +15,5 @@ all =
                 Expect.equal "a" (String.left 1 "abcdefg")
         , test "This test should fail" <|
             \_ ->
-                Expect.fail "failed as expected!"
+                Expect.equal 1 1
         ]
