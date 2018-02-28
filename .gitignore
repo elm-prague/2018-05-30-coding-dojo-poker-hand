@@ -1,14 +1,18 @@
 # Distribution
-build/
+/build/
 
 # elm-package generated files
-elm-stuff
+/elm-stuff/
+/tests/elm-stuff/
 
 # elm-repl generated files
-repl-temp-*
+/repl-temp-*
 
 # Dependency directories
-node_modules
+/node_modules/
+
+# JavaScript
+yarn-error.log
 
 # Desktop Services Store on macOS
 .DS_Store
