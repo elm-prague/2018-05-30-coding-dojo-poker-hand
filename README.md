@@ -1,6 +1,6 @@
 # ElmPrague Coding Dojo #4: Poker Hands
 
-This repo shows end result of a Coding Dojo session. We were implementing ["Poker Hands" kata](https://codingdojo.org/kata/PokerHands/).
+This repo shows [the end result](/tests/Tests.elm) of a Coding Dojo session. We were implementing ["Poker Hands" kata](https://codingdojo.org/kata/PokerHands/).
 
 ## Requirements
 
