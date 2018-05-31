@@ -1,3 +1,25 @@
+# ElmPrague Coding Dojo #4: Poker Hands
+
+This repo shows end result of a Coding Dojo session. We were implementing ["Poker Hands" kata](https://codingdojo.org/kata/PokerHands/).
+
+## Requirements
+
+- Node.js based on [`./.nvmrc` file](/.nvmrc)
+
+```bash
+npm i -g yarn
+yarn install
+yarn elm:install
+```
+
+## Run tests
+
+```bash
+yarn test:watch
+```
+
+---
+
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
 Below you will find some information on how to perform basic tasks.
